@@ -1,0 +1,62 @@
+/*
+File that contains style for new section 
+*/
+
+.sec-title {
+    position: relative;
+    padding: 2%;
+}
+
+.sec-title .txt {
+    color: white;
+    font-weight: 600;
+    font-size: 23px;
+    margin-bottom: 25px;
+    position: relative;
+    z-index: 1;
+}
+
+.sec3 {
+    padding-top: 5%;
+}
+
+.p100 {
+    width: 100%;
+}
+
+.sec3 .crd {
+    background-color: #E4EEFC;
+    padding: 2%;
+    text-align: left;
+    border-radius: 13px 13px 0 0;
+    cursor: pointer;
+    margin: 10% 0 0 0;
+}
+
+.sec3 .card {
+    box-shadow: none;
+    background-color: #E4EEFC;
+    border-radius: 0 0 13px 13px;
+}
+
+.sec3 .crd .topic {
+    width: 12%;
+}
+
+.arrow_faq {
+    width: 1em !important;
+    float: right !important;
+    margin-top: 20px;
+    border: none;
+    width: 3.5% !important;
+    margin-right: 10px;
+}
+
+.sec3 .crd .title {
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 10px;
+    padding: 2% 0;
+    display: inline-block;
+    color: #264373;
+}
